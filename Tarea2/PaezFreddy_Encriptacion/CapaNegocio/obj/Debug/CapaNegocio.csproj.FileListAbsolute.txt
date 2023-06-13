@@ -1,0 +1,61 @@
+c:\users\coordinador\documents\visual studio 2017\Projects\SysCentro\CapaNegocio\bin\Debug\CapaNegocio.dll
+c:\users\coordinador\documents\visual studio 2017\Projects\SysCentro\CapaNegocio\bin\Debug\CapaNegocio.pdb
+c:\users\coordinador\documents\visual studio 2017\Projects\SysCentro\CapaNegocio\bin\Debug\CapaData.dll
+c:\users\coordinador\documents\visual studio 2017\Projects\SysCentro\CapaNegocio\bin\Debug\CapaData.pdb
+c:\users\coordinador\documents\visual studio 2017\Projects\SysCentro\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+c:\users\coordinador\documents\visual studio 2017\Projects\SysCentro\CapaNegocio\obj\Debug\CapaNegocio.dll
+c:\users\coordinador\documents\visual studio 2017\Projects\SysCentro\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Coordinador\Desktop\SysCentro\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Coordinador\Desktop\SysCentro\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Coordinador\Desktop\SysCentro\CapaNegocio\bin\Debug\CapaData.dll
+C:\Users\Coordinador\Desktop\SysCentro\CapaNegocio\bin\Debug\CapaData.pdb
+C:\Users\Coordinador\Desktop\SysCentro\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Coordinador\Desktop\SysCentro\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Coordinador\Desktop\SysCentro\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Coordinador\Desktop\SysCentro\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Coordinador\Desktop\SysCentro\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaNegocio\bin\Debug\CapaData.dll
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaNegocio\bin\Debug\CapaData.pdb
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaNegocio\bin\Debug\CapaData.dll
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaNegocio\bin\Debug\CapaData.pdb
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\bin\Debug\CapaData.dll
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\bin\Debug\CapaData.pdb
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\bin\Debug\CapaData.dll
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\bin\Debug\CapaData.pdb
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaNegocio\bin\Debug\CapaData.dll
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaNegocio\bin\Debug\CapaData.pdb
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaNegocio\obj\Debug\CapaNegocio.pdb

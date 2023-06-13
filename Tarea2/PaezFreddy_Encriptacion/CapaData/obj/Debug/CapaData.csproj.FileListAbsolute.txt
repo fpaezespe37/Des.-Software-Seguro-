@@ -1,0 +1,41 @@
+c:\users\coordinador\documents\visual studio 2017\Projects\SysCentro\CapaData\obj\Debug\CapaData.csprojResolveAssemblyReference.cache
+c:\users\coordinador\documents\visual studio 2017\Projects\SysCentro\CapaData\bin\Debug\CapaData.dll
+c:\users\coordinador\documents\visual studio 2017\Projects\SysCentro\CapaData\bin\Debug\CapaData.pdb
+c:\users\coordinador\documents\visual studio 2017\Projects\SysCentro\CapaData\obj\Debug\CapaData.dll
+c:\users\coordinador\documents\visual studio 2017\Projects\SysCentro\CapaData\obj\Debug\CapaData.pdb
+C:\Users\Coordinador\Desktop\SysCentro\CapaData\bin\Debug\CapaData.dll
+C:\Users\Coordinador\Desktop\SysCentro\CapaData\bin\Debug\CapaData.pdb
+C:\Users\Coordinador\Desktop\SysCentro\CapaData\obj\Debug\CapaData.dll
+C:\Users\Coordinador\Desktop\SysCentro\CapaData\obj\Debug\CapaData.pdb
+C:\Users\Coordinador\Desktop\SysCentro\CapaData\obj\Debug\CapaData.csprojAssemblyReference.cache
+C:\Users\Coordinador\Desktop\SysCentro\CapaData\obj\Debug\CapaData.csproj.CoreCompileInputs.cache
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaData\bin\Debug\CapaData.dll
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaData\bin\Debug\CapaData.pdb
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaData\obj\Debug\CapaData.csproj.CoreCompileInputs.cache
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaData\obj\Debug\CapaData.dll
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaData\obj\Debug\CapaData.pdb
+C:\Users\Coordinador\Desktop\SysCentro - 07102019\CapaData\obj\Debug\CapaData.csprojAssemblyReference.cache
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaData\bin\Debug\CapaData.dll
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaData\bin\Debug\CapaData.pdb
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaData\obj\Debug\CapaData.csprojAssemblyReference.cache
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaData\obj\Debug\CapaData.csproj.CoreCompileInputs.cache
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaData\obj\Debug\CapaData.dll
+C:\Users\Coordinador\Desktop\SysCentro - login 07102019\CapaData\obj\Debug\CapaData.pdb
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaData\bin\Debug\CapaData.dll
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaData\bin\Debug\CapaData.pdb
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaData\obj\Debug\CapaData.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaData\obj\Debug\CapaData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaData\obj\Debug\CapaData.dll
+C:\Users\Admin\Downloads\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaData\obj\Debug\CapaData.pdb
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaData\bin\Debug\CapaData.dll
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaData\bin\Debug\CapaData.pdb
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaData\obj\Debug\CapaData.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaData\obj\Debug\CapaData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaData\obj\Debug\CapaData.dll
+C:\Users\Admin\Desktop\SysCentro - login 10102019-20220419T020308Z-001\SysCentro - login 10102019\CapaData\obj\Debug\CapaData.pdb
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaData\bin\Debug\CapaData.dll
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaData\bin\Debug\CapaData.pdb
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaData\obj\Debug\CapaData.csproj.AssemblyReference.cache
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaData\obj\Debug\CapaData.csproj.CoreCompileInputs.cache
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaData\obj\Debug\CapaData.dll
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\SysCentro - login 10102019\CapaData\obj\Debug\CapaData.pdb

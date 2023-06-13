@@ -1,0 +1,5 @@
+C:\projects\puntonet\ap\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\projects\puntonet\ap\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\projects\puntonet\ap\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\projects\puntonet\ap\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\projects\puntonet\ap\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

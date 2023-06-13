@@ -1,0 +1,12 @@
+C:\projects\puntonet\ap\DataAccess\bin\Debug\DataAccess.dll
+C:\projects\puntonet\ap\DataAccess\bin\Debug\DataAccess.pdb
+C:\projects\puntonet\ap\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\projects\puntonet\ap\DataAccess\obj\Debug\DataAccess.dll
+C:\projects\puntonet\ap\DataAccess\obj\Debug\DataAccess.pdb
+C:\projects\puntonet\ap\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\Nueva carpeta\ap\DataAccess\bin\Debug\DataAccess.dll
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\Nueva carpeta\ap\DataAccess\bin\Debug\DataAccess.pdb
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\Nueva carpeta\ap\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\Nueva carpeta\ap\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\Nueva carpeta\ap\DataAccess\obj\Debug\DataAccess.dll
+D:\ESPE MAYO 23 - SEPT 23\Desarrollo SW Seguro\Nueva carpeta\ap\DataAccess\obj\Debug\DataAccess.pdb
